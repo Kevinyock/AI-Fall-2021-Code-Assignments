@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AI Assignment number 3", "AI Assignment number 3\AI Assignment number 3.pyproj", "{56F9F122-3243-4EBB-A453-D292E62C5A25}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignment Number 9", "Assignment Number 9\Assignment Number 9.pyproj", "{71C0AD48-633E-4472-BA4B-1E1719363C7F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hidden Markov Model", "Hidden Markov Model\Hidden Markov Model.pyproj", "{06373B52-A99F-448C-BDB9-26F8AAE58E74}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "A Star", "A Star\A Star.pyproj", "{184972CE-CD15-4DB7-9EC9-3E6879E3C828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F9F122-3243-4EBB-A453-D292E62C5A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F9F122-3243-4EBB-A453-D292E62C5A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C0AD48-633E-4472-BA4B-1E1719363C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C0AD48-633E-4472-BA4B-1E1719363C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06373B52-A99F-448C-BDB9-26F8AAE58E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06373B52-A99F-448C-BDB9-26F8AAE58E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184972CE-CD15-4DB7-9EC9-3E6879E3C828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184972CE-CD15-4DB7-9EC9-3E6879E3C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C950051-AB0F-4CC1-86F4-4D75FAEDA6AA}
+	EndGlobalSection
+EndGlobal
